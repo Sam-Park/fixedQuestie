@@ -26,20 +26,20 @@ QuestieNotesDB = {};
 
 QuestieGlobalConfig = { -- TODO SAVEDVARIABLE THIS THING
 	['Minimap'] = {
-		['Maximum minimap icons'] = 5,
-		['Icon scale percentage'] = 75,
-		['Enabled'] = false
+		['Maximum minimap icons'] = 30,
+		['Icon scale percentage'] = 50,
+		['Enabled'] = true
 	},
 	['World Map'] = {
-		['Maximum world map icons'] = 20,
-		['Enabled'] = false
+		['Maximum world map icons'] = 60,
+		['Enabled'] = true
 	},
 	['Tracker'] = {
-		['Maximum tracked quests (NYI)'] = 0,
+		['Maximum tracked quests (NYI)'] = 10,
 		['Distance Units'] = "Yds",
 		['Enable arrow on click'] = false,
 		['Enable Distance display'] = true,
-		['Enabled'] = false
+		['Enabled'] = true
 	},
 	['Misc'] = {
 	},
